@@ -22,8 +22,3 @@ Amounts are presented in Argentine pesos using a documented fixed BCRA rate of 1
 ## Aptitudes
 Python, SQL, pandas, NumPy, visualización de datos, calidad de datos, análisis exploratorio, Streamlit.
 
-## Antes de publicar
-- Añadir la URL real del repositorio o de la demostración cuando esté disponible.
-- Adjuntar `results/portfolio_overview.png` y revisar que puedas explicar las definiciones y consultas.
-- Indicar la contribución personal con precisión. Este caso, su código y sus textos se prepararon con asistencia de Codex; revisar y adaptar las conclusiones antes de presentarlas.
-- No atribuir empleo en UCI o en el comercio, ni impacto económico implementado: es un proyecto personal con datos públicos históricos.
